@@ -89,7 +89,7 @@ Dim fs As Object
 Dim fPath As String
 
 Set fs = CreateObject("Scripting.FileSystemObject")
-fPath = "T1555_Cred_Dump.txt"
+fPath = "\T1555_Cred_Dump.txt"
 Set out = fs.CreateTextFile(fPath, True)
 
 Dim cnt As Integer
