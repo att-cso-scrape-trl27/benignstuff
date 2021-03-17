@@ -90,7 +90,7 @@ Dim scriptDir As String
 Dim fPath As String
 
 Set fs = CreateObject("Scripting.FileSystemObject")
-Set scriptDir = fs.GetParentFolderName(WScript.ScriptFullName)
+scriptDir = fs.GetParentFolderName(WScript.ScriptFullName)
 fPath = scriptDir + "\T1555_Cred_Dump.txt"
 Set out = fs.CreateTextFile(fPath, True)
 
