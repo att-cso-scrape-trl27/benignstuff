@@ -86,13 +86,11 @@ Dim ptrArray() As LongPtr
 Dim memArray() As Variant
 
 Dim fs As Object
-Dim scriptDir As Object
-Dim sDir As String
 Dim fPath As String
 
 Set fs = CreateObject("Scripting.FileSystemObject")
-Set scriptDir = fs.GetParentFolderName(WScript.ScriptFullName)
-sDir = CType(scriptDir, String)
+b = CreateObject("WScript.Shell").ExpandEnvironmentStrings("%SystemDrive%")
+sDir = CreateObject("Scripting.FileSystemObject").GetAbsolutePathName(b)
 fPath = sDir + "\T1555_Cred_Dump.txt"
 Set out = fs.CreateTextFile(fPath, True)
 
