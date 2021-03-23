@@ -89,9 +89,7 @@ Dim fs As Object
 Dim fPath As String
 
 Set fs = CreateObject("Scripting.FileSystemObject")
-b = CreateObject("WScript.Shell").ExpandEnvironmentStrings("%SystemDrive%")
-sDir = CreateObject("Scripting.FileSystemObject").GetAbsolutePathName(b)
-fPath = sDir + "\T1555_Cred_Dump.txt"
+fPath = Environ$("TEMP") + "\T1555-Creds.txt"
 Set out = fs.CreateTextFile(fPath, True)
 
 Dim cnt As Integer
