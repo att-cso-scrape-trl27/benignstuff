@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title>ATT Block Page - Security</title>
+  <link rel="StyleSheet"
+ href="http://blocked-sites.cso.att.com/css/block.css"
+ type="text/css">
+  <style> BODY,TABLE,DIV,H1,H2,H3,H4,H5,H6,UL,LI,A,FONT{font-family:arial;} UL,LI,A,FONT{font-size:12px;} .att_title_text{display:inline;color:#000000;font-size:15px;font-weight:900; letter-spacing:-0.1ex;position:relative;left:4px;top:-11px;} .att_head_space{color:#ffffff;display:inline;position:relative;top:-1px;} .att_head_1,.att_head_2,.att_head_3{margin-left:10px;margin-right:10px;position:relative;top:1px;} .att_head_1{color:#ffffff;font-weight:900;} .att_head_2{color:#ffffff;font-weight:400;} .att_head_3{color:#306090;font-weight:400;} .att_loc{color:#0396D7;font-size:16px;font-weight:900;letter-spacing:-0.1ex;} </style>
+</head>
+<body>
+<table class="main" style="background-image: url(http://blocked-sites.cso.att.com/img/att_back.gif);" border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td height="8"></td>
+    </tr>
+    <tr>
+      <td height="33"><img src="http://blocked-sites.cso.att.com/img/att_logo.jpg" style="position: relative; left: 4px;">
+      <div class="att_title_text">Chief Security Office</div>
+      </td>
+    </tr>
+    <tr>
+      <td height="4"></td>
+    </tr>
+    <tr>
+      <td height="21"></td>
+    </tr>
+  </tbody>
+</table>
+<table class="main" border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td>
+      <table class="box" border="0" cellpadding="0" cellspacing="0" width="770">
+        <tbody>
+          <tr>
+            <td align="left" valign="top">
+            <table style="height: 28px; width: 100%;">
+              <tbody>
+                <tr>
+                  <td align="left">
+                  <div class="att_loc"> &nbsp;Access Denied - https:&#x2F;&#x2F;github-releases.githubusercontent.com&#x2F;30870954&#x2F;a8cdc200-d89e-11e9-95f7-b54860439718?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210323%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210323T143303Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=1c6e116fa7a6b5a3c554de36c1b0966ef6c4521eae15318b7f0a9c5aeb854f10&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;key_id=0&amp;repo_id=30870954&amp;response-content-disposition=attachment%3B%20filename%3Dlazagne.exe&amp;response-content-type=application%2Foctet-stream - ITSERVICES\tl881e</div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="shadow2" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td height="8"></td>
+    </tr>
+    <tr>
+      <td>
+      <table class="box" border="0" cellpadding="0" cellspacing="0" width="770">
+        <tbody>
+          <tr>
+            <td height="8"></td>
+          </tr>
+          <tr>
+            <td>
+   <p>
+            <div style="text-align: center;">
+   <big>
+   <span style="color: rgb(255, 0, 0); font-weight: bold;">WARNING!</span>
+            <span style="font-weight: bold;"> &nbsp;</span>
+            <span style="color: rgb(51, 51, 255); font-weight: bold;">BLOCKED WEBSITE</span>
+            <span style="font-weight: bold;">&nbsp;</span>
+            <span style="color: rgb(255, 0, 0);">
+   <span style="font-weight: bold;">WARNING!</span>
+   </p>
+            <div style="text-align: left;">
+   <b>
+   You have attempted to reach an Internet website identified as non-business related,
+   restricted, or otherwise inappropriate as they directly or indirectly threaten the
+   integrity of AT&T Information Security controls.
+   </b>
+   </p>
+   <p>
+   AT&amp;T Companies provide Internet Access through AT&amp;T supported gateways to all
+   authorized employees, and agents of the Company, for appropriate
+   business purposes. Employees must exercise good judgment that is
+   consistent with the <a href="https://intra.att.com/hronestopadmin/doc/ATT_Code_of_Conduct.pdf" target="_blank">AT&amp;TCode of Business Conduct</a>.
+   </p>
+   <p>
+            <img src="http://blocked-sites.cso.att.com/img/warning.jpg">
+   Failure to comply with company policies may result in disciplinary
+   action, up to and including dismissal.</p>
+<hr style="width: 100%; height: 1px; color: #167ce3">
+   <span style="color: rgb(0, 0, 0);"></p>
+If you believe there is a legitimate business reason to access this
+site, please
+click the button below to process an
+exception request:
+</p>
+<table style="text-align: left; width: 600px; height: 28px;" border="0" cellpadding="3" cellspacing="0">
+ <tbody>
+  <tr>
+   <td style="width: 300px;"><small>
+    <b><p>Blocked Page information</p></b>
+                <p>URL - https:&#x2F;&#x2F;github-releases.githubusercontent.com&#x2F;30870954&#x2F;a8cdc200-d89e-11e9-95f7-b54860439718?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210323%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210323T143303Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=1c6e116fa7a6b5a3c554de36c1b0966ef6c4521eae15318b7f0a9c5aeb854f10&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;key_id=0&amp;repo_id=30870954&amp;response-content-disposition=attachment%3B%20filename%3Dlazagne.exe&amp;response-content-type=application%2Foctet-stream <br>
+    Client IP - 135.70.199.39 <br>
+    <!-- IP Address - 185.199.108.154 <br> -->
+    Block Category - Malicious Sources&#x2F;Malnets;Content Delivery Networks <br>
+    Threat Risk - 10 <br>
+    Proxy - Proxy</small></p>
+   </td>
+  </tr>
+ </tbody>
+</table>
+            <p>
+*For a description of the category please visit our <a
+ href="http://cso.att.com/FAQs/URLFilteringFAQ.html" target="_blank">FAQ
+site</a>
+            </p>
+            <span style="font-style: italic; font-weight: bold;">
+            <p>Note: The
+exception request process requires approval (at a minimum) from
+management at pay level 3. If you do not want management notified of
+your request, please do not submit an exception request.</p>
+            </span></span><big
+ style="color: rgb(0, 0, 0);"><big>
+            <p></p>
+            </big></big><span
+ style="color: rgb(0, 0, 0);">Your submitted request may take
+up to five
+business days to process once approved. <br>
+            <br>
+            <center>
+            <form method="get" action="https://www.e-access.att.com/eforc/urlfilter/createException.php ">
+   <input class="submit_blue" value="click here to begin your request" type="submit">
+            <input name="URL" value="https:&#x2F;&#x2F;github-releases.githubusercontent.com&#x2F;30870954&#x2F;a8cdc200-d89e-11e9-95f7-b54860439718?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210323%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210323T143303Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=1c6e116fa7a6b5a3c554de36c1b0966ef6c4521eae15318b7f0a9c5aeb854f10&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;key_id=0&amp;repo_id=30870954&amp;response-content-disposition=attachment%3B%20filename%3Dlazagne.exe&amp;response-content-type=application%2Foctet-stream" type="hidden">
+            <input name="siteIP" value="185.199.108.154" type="hidden">
+            <input name="clientIP" value="135.70.199.39" type="hidden">
+            <input name="categoryName" value="Malicious Sources&#x2F;Malnets;Content Delivery Networks" type="hidden">
+            <input name="proxy" value="Proxy" type="hidden">
+            <input name="proxyIP" value="135.28.170.186" type="hidden">
+            </form>
+            </center>
+            </span>
+            <div style="text-align: center;"><span
+ style="font-weight: bold;">AT&amp;T Proprietary
+(Internal Use Only)</span><br>
+Not for use or disclosure outside the AT&amp;T companies except
+under written agreement. <br>
+            </div>
+            <big><big><span
+ style="color: rgb(255, 0, 0);"></span></big></big></div>
+            <big><big><span
+ style="color: rgb(255, 0, 0);"><span
+ style="color: rgb(0, 0, 0);"></span></span></big></big></div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="shadow2" cellpadding="0"
+ cellspacing="0">
+        <tbody>
+          <tr>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
